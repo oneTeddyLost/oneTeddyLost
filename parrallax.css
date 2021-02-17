@@ -73,15 +73,12 @@ body {
   transform: translateZ(0px) scale(1);
 }
 
-.section.feature {
+.videoparent {
 	width: 100%;
-	/*max-width: none;*/
 	margin: 50px auto 120px;
     max-width: 900px;
 	padding-left: 30px;
 	padding-right: 30px;
-	/*margin-left: auto;*/
-	/*margin-right: auto;*/
 }
 
 
